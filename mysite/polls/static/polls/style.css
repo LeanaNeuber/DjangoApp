@@ -1,0 +1,8 @@
+li a {
+    color: black;
+    background: pink;
+}
+
+body {
+    background: white url("images/background.gif") no-repeat;
+}
